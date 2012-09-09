@@ -1,0 +1,20 @@
+{
+    "author": "Sergey Sobko <S.Sobko@profitware.ru>",
+    "name": "profitcash-restful",
+    "homepage": "http://cash.profitware.ru/",
+    "description": "RESTful ProfitCash Service",
+    "version": "0.0.1",
+    "main": "./lib/index.js",
+    "engines": {
+        "node": "0.8.x",
+        "npm": "1.1.x"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/profitware/profitcash-restful.git"
+    },
+    "dependencies": {
+        "restify": "1.4.4",
+        "mongoose": "3.1.x"
+    }
+}
